@@ -7,7 +7,8 @@
 
 ### Links and Resources
 * [repo](https://github.com/jaredpattison/jaredGatsbyCounter)
-* [front-end](https://gifted-stonebraker-4ed9c8.netlify.com/)
+* [front-end](https://gifted-stonebraker-4ed9c8.netlify.com/)  
+
 =================================================
 
 ### Modules
